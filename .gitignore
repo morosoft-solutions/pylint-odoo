@@ -23,7 +23,6 @@ var/
 *.egg
 *.eggs
 AUTHORS
-ChangeLog
 
 # Installer logs
 pip-log.txt
